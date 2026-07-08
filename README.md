@@ -1,4 +1,3 @@
-```md
 # DevOps Handbook
 
 <p align="center">
@@ -7,49 +6,49 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/Archit1704/devops-notes?style=for-the-badge" alt="Last Commit">
-  <img src="https://img.shields.io/github/repo-size/Archit1704/devops-notes?style=for-the-badge" alt="Repo Size">
-  <img src="https://img.shields.io/badge/Notes-Markdown-blue?style=for-the-badge" alt="Markdown">
+  <img src="https://img.shields.io/github/repo-size/Archit1704/devops-notes?style=for-the-badge" alt="Repository Size">
+  <img src="https://img.shields.io/github/languages/top/Archit1704/devops-notes?style=for-the-badge" alt="Top Language">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
 </p>
 
 <p align="center">
-A structured collection of DevOps notes, practical examples, commands, configurations, and real-world learning resources.
+  <strong>Comprehensive DevOps documentation, practical examples, commands, configurations, troubleshooting guides, and production-focused notes.</strong>
 </p>
 
 ---
 
-## 📖 About
+## 📖 Overview
 
-This repository is a centralized knowledge base documenting my DevOps learning journey through hands-on practice, official documentation, and real-world projects.
+The **DevOps Handbook** is a structured collection of notes and practical references covering modern DevOps technologies and workflows.
 
-Rather than collecting isolated commands, these notes focus on understanding concepts, implementing them in practical scenarios, troubleshooting common issues, and documenting the lessons learned.
+The repository emphasizes hands-on implementation, official documentation, troubleshooting, and production best practices rather than theoretical summaries alone.
 
-The repository is continuously updated as I explore new technologies and production workflows.
-
----
-
-# 📚 Topics
-
-- Linux
-- Git & GitHub
-- Docker
-- Networking
-- Nginx
-- CI/CD
-- AWS
-- Kubernetes
-- Terraform
-- Monitoring
-- Security
-- Production Best Practices
+It is designed to serve as a reliable reference for learning, revision, and day-to-day DevOps tasks.
 
 ---
 
-# 📂 Repository Structure
+## 🚀 Topics
 
-```
+- 🐧 Linux
+- 🌿 Git & GitHub
+- 🐳 Docker
+- 🌐 Computer Networking
+- ⚡ Nginx
+- 🔄 CI/CD
+- ☁️ Amazon Web Services (AWS)
+- ☸️ Kubernetes
+- 🌍 Terraform
+- 📊 Monitoring & Observability
+- 🔒 DevOps Security
+- 🚀 Production Best Practices
 
-.
+---
+
+## 📂 Repository Structure
+
+```text
+devops-notes/
+│
 ├── Linux/
 ├── Git/
 ├── Docker/
@@ -60,99 +59,78 @@ The repository is continuously updated as I explore new technologies and product
 ├── Terraform/
 ├── Monitoring/
 ├── Security/
+│
 └── README.md
-
 ```
 
-Each section includes:
+Each section may include:
 
-- 📘 Concept explanations
-- 💻 Commands and examples
-- ⚙️ Configuration files
-- 🛠️ Hands-on exercises
-- 🐞 Troubleshooting guides
-- 📌 Best practices
-- 🌍 Real-world use cases
+- 📘 Concept Explanations
+- 💻 Commands & Examples
+- ⚙️ Configuration Files
+- 🛠️ Practical Labs
+- 🐞 Troubleshooting Guides
+- 📌 Best Practices
+- 🌍 Real-world Scenarios
 
 ---
 
-# 🎯 Learning Methodology
+## 🎯 Learning Framework
 
-Every topic follows a structured workflow:
+Every topic follows a consistent workflow:
 
-```
-
-Concept
-│
-▼
-Official Documentation
-│
-▼
+```text
+Understand the Concept
+        │
+        ▼
+Study Official Documentation
+        │
+        ▼
 Hands-on Practice
-│
-▼
-Mini Project
-│
-▼
-Break Things Intentionally
-│
-▼
-Troubleshoot & Fix
-│
-▼
-Document Learnings
-│
-▼
-Teach Yourself
-
+        │
+        ▼
+Build a Mini Project
+        │
+        ▼
+Experiment & Troubleshoot
+        │
+        ▼
+Document Key Learnings
+        │
+        ▼
+Review & Reinforce
 ```
 
-The objective is to understand **how**, **why**, and **when** technologies are used instead of simply memorizing commands.
+This approach focuses on understanding **how**, **why**, and **when** technologies are used in real-world environments.
 
 ---
 
-# 🚀 Purpose
+## 💡 Repository Objectives
 
-This repository serves as:
-
-- 📖 Personal DevOps knowledge base
-- 🔍 Interview preparation resource
-- ⚡ Quick command reference
-- 🧩 Troubleshooting guide
-- 📚 Documentation of practical learning
-- 🏗️ Reference for future projects
+- Maintain well-organized DevOps documentation
+- Build a practical reference library
+- Document real-world configurations
+- Capture troubleshooting solutions
+- Support interview preparation
+- Provide quick command references
+- Encourage hands-on learning
 
 ---
 
-# 📌 Current Focus
+## 📌 Current Coverage
 
-The repository is actively expanding with content covering:
+The repository is actively expanding with documentation for:
 
-- Cloud Computing (AWS)
-- Containerization
-- Infrastructure as Code
-- Kubernetes
+- Linux Administration
+- Git & Version Control
+- Docker & Containers
+- AWS Services
+- Networking Fundamentals
+- Nginx
 - CI/CD Pipelines
-- Monitoring & Observability
-- DevOps Best Practices
+- Kubernetes
+- Infrastructure as Code
+- Monitoring & Logging
+- Security Practices
 
 ---
-
-# 🤝 Contributions
-
-Suggestions, corrections, and improvements are welcome.
-
-If you find any mistakes or have ideas to improve these notes, feel free to open an Issue or submit a Pull Request.
-
----
-
-# ⭐ Support
-
-If you find this repository helpful, consider giving it a ⭐.
-
-It helps others discover the project and motivates continued improvements.
-
----
-
-> **Learning by building. Understanding by breaking. Growing by documenting.**
-```
