@@ -1,5 +1,16 @@
 # PostgreSQL Remote Connection Between AWS EC2 Instances (Private IP)
 
+<p align="center">
+  <img src="./details.png" alt="DevOps Handbook Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/Archit1704/devops-notes?style=for-the-badge" alt="Last Commit">
+  <img src="https://img.shields.io/github/repo-size/Archit1704/devops-notes?style=for-the-badge" alt="Repository Size">
+  <img src="https://img.shields.io/github/languages/top/Archit1704/devops-notes?style=for-the-badge" alt="Top Language">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
+</p>
+
 A hands-on DevOps lab demonstrating how to connect a PostgreSQL database running on one AWS EC2 instance from a **separate** EC2 instance, using private VPC networking instead of exposing the database to the public internet.
 
 > **Why this matters:** In real production setups, databases should never be publicly accessible. This lab replicates a common real-world pattern — an application server (or client) talking to a database server privately within the same VPC — the same principle used in three-tier architectures, microservices, and internal tooling.
