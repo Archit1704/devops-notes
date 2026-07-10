@@ -1,7 +1,7 @@
 # DevOps Handbook
 
 <p align="center">
-  <img src="./assets/banner.png" alt="DevOps Handbook Banner" width="100%">
+  <img src="banner.png" alt="DevOps Handbook Banner" width="100%">
 </p>
 
 <p align="center">
